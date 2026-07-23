@@ -100,21 +100,6 @@ Regras cobertas pelo subprograma:
 - valor inválido;
 - saldo insuficiente.
 
-## Entregáveis
-
-Arquivos que você deve entregar no pacote final:
-
-- [BHCPH000.cbl](BHCPH000.cbl)
-- [BHCPH001.cbl](BHCPH001.cbl)
-- [BHCSH001.cbl](BHCSH001.cbl)
-- [BHCFHCLI.txt](BHCFHCLI.txt)
-- [BHCFHTRA.txt](BHCFHTRA.txt)
-- [BHCFHEXT.txt](BHCFHEXT.txt)
-- [BHCFHLOG.txt](BHCFHLOG.txt)
-- [BHCFHJSN.json](BHCFHJSN.json)
-- evidência da SYSOUT do BHCPH000
-- evidência da SYSOUT do BHCPH001
-
 ## Ordem Recomendada
 
 1. Compile o `BHCPH000`.
